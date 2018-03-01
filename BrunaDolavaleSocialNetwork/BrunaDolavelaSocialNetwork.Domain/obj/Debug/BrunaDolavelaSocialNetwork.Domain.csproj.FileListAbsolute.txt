@@ -1,0 +1,5 @@
+C:\Users\gustavomg.ADM\Desktop\Bruna\BrunaDolavaleSocialNetwork\BrunaDolavelaSocialNetwork.Domain\bin\Debug\BrunaDolavelaSocialNetwork.Domain.dll
+C:\Users\gustavomg.ADM\Desktop\Bruna\BrunaDolavaleSocialNetwork\BrunaDolavelaSocialNetwork.Domain\bin\Debug\BrunaDolavelaSocialNetwork.Domain.pdb
+C:\Users\gustavomg.ADM\Desktop\Bruna\BrunaDolavaleSocialNetwork\BrunaDolavelaSocialNetwork.Domain\obj\Debug\BrunaDolavelaSocialNetwork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gustavomg.ADM\Desktop\Bruna\BrunaDolavaleSocialNetwork\BrunaDolavelaSocialNetwork.Domain\obj\Debug\BrunaDolavelaSocialNetwork.Domain.dll
+C:\Users\gustavomg.ADM\Desktop\Bruna\BrunaDolavaleSocialNetwork\BrunaDolavelaSocialNetwork.Domain\obj\Debug\BrunaDolavelaSocialNetwork.Domain.pdb

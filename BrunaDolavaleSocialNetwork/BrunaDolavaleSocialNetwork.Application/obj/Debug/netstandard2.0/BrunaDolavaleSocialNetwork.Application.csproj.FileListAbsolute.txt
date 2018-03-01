@@ -1,0 +1,4 @@
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Application\obj\Debug\netstandard2.0\BrunaDolavaleSocialNetwork.Application.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Application\obj\Debug\netstandard2.0\BrunaDolavaleSocialNetwork.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Application\obj\Debug\netstandard2.0\BrunaDolavaleSocialNetwork.Application.AssemblyInfoInputs.cache
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Application\obj\Debug\netstandard2.0\BrunaDolavaleSocialNetwork.Application.AssemblyInfo.cs

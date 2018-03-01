@@ -1,0 +1,14 @@
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\obj\Debug\BrunaDolavaleSocialNetwork.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\obj\Debug\BrunaDolavaleSocialNetwork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\BrunaDolavaleSocialNetwork.Domain.dll.config
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\BrunaDolavaleSocialNetwork.Domain.dll
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\BrunaDolavaleSocialNetwork.Domain.pdb
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\log4net.dll
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\Migrations.dll
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\bin\Debug\log4net.xml
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\obj\Debug\BrunaDolavaleSocialNetwork.Domain.dll
+C:\Users\Bruna\Desktop\Agora Vai\BrunaDolavaleSocialNetwork\BrunaDolavaleSocialNetwork.Domain\obj\Debug\BrunaDolavaleSocialNetwork.Domain.pdb
