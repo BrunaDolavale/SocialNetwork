@@ -72,6 +72,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BaseService.cs" />
     <Compile Include="Services\ProfileService.cs" />
+    <Compile Include="ValueObjects\CellphoneNumber.cs" />
+    <Compile Include="ValueObjects\Description.cs" />
+    <Compile Include="ValueObjects\Email.cs" />
+    <Compile Include="ValueObjects\Gender.cs" />
+    <Compile Include="ValueObjects\LastName.cs" />
+    <Compile Include="ValueObjects\Name.cs" />
+    <Compile Include="ValueObjects\Office.cs" />
+    <Compile Include="ValueObjects\Password.cs" />
+    <Compile Include="ValueObjects\PhotoProfile.cs" />
+    <Compile Include="ValueObjects\SchoolLevel.cs" />
+    <Compile Include="ValueObjects\Sexuality.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

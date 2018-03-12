@@ -56,6 +56,18 @@
     <Compile Include="Context\BrunaDolavaleSocialNetworkContext.cs" />
     <Compile Include="EntityConfig\MatchConfiguration.cs" />
     <Compile Include="EntityConfig\ProfileConfiguration.cs" />
+    <Compile Include="Migrations\201803012348058_InitialCreate.cs" />
+    <Compile Include="Migrations\201803012348058_InitialCreate.Designer.cs">
+      <DependentUpon>201803012348058_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803012350437_InitialCreate1.cs" />
+    <Compile Include="Migrations\201803012350437_InitialCreate1.Designer.cs">
+      <DependentUpon>201803012350437_InitialCreate1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803012354137_Bruna.cs" />
+    <Compile Include="Migrations\201803012354137_Bruna.Designer.cs">
+      <DependentUpon>201803012354137_Bruna.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\BaseRepository.cs" />
@@ -67,7 +79,17 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201803012348058_InitialCreate.resx">
+      <DependentUpon>201803012348058_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803012350437_InitialCreate1.resx">
+      <DependentUpon>201803012350437_InitialCreate1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803012354137_Bruna.resx">
+      <DependentUpon>201803012354137_Bruna.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BrunaDolavaleSocialNetwork.Domain\BrunaDolavaleSocialNetwork.Domain.csproj">
       <Project>{6D60AFA4-F916-4E4F-95DF-E1493C2B6D63}</Project>

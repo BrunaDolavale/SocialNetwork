@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunaDolavaleSocialNetwork.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Cross Cutting", "4.2 - Cross Cutting", "{0F10AA75-74D8-45A2-A316-B4B15348C018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunaDolavaleSocialNetwork.Application", "BrunaDolavaleSocialNetwork.Application\BrunaDolavaleSocialNetwork.Application.csproj", "{F354ED8A-6200-491A-8306-33930BFDE1CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrunaDolavaleSocialNetwork.Application", "BrunaDolavaleSocialNetwork.Application\BrunaDolavaleSocialNetwork.Application.csproj", "{F354ED8A-6200-491A-8306-33930BFDE1CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

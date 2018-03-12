@@ -201,11 +201,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruna\\Desktop\\Agora Vai\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Application\\BrunaDolavaleSocialNetwork.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Bruna\\Desktop\\SocialNetwork\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Application\\BrunaDolavaleSocialNetwork.Application.csproj",
       "projectName": "BrunaDolavaleSocialNetwork.Application",
-      "projectPath": "C:\\Users\\Bruna\\Desktop\\Agora Vai\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Application\\BrunaDolavaleSocialNetwork.Application.csproj",
+      "projectPath": "C:\\Users\\Bruna\\Desktop\\SocialNetwork\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Application\\BrunaDolavaleSocialNetwork.Application.csproj",
       "packagesPath": "C:\\Users\\Bruna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruna\\Desktop\\Agora Vai\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Application\\obj\\",
+      "outputPath": "C:\\Users\\Bruna\\Desktop\\SocialNetwork\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Bruna\\Desktop\\Agora Vai\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Domain\\BrunaDolavaleSocialNetwork.Domain.csproj": {
-              "projectPath": "C:\\Users\\Bruna\\Desktop\\Agora Vai\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Domain\\BrunaDolavaleSocialNetwork.Domain.csproj"
+            "C:\\Users\\Bruna\\Desktop\\SocialNetwork\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Domain\\BrunaDolavaleSocialNetwork.Domain.csproj": {
+              "projectPath": "C:\\Users\\Bruna\\Desktop\\SocialNetwork\\BrunaDolavaleSocialNetwork\\BrunaDolavaleSocialNetwork.Domain\\BrunaDolavaleSocialNetwork.Domain.csproj"
             }
           }
         }

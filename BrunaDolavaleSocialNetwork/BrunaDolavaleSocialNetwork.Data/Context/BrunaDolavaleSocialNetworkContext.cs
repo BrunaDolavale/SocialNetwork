@@ -10,7 +10,7 @@ namespace BrunaDolavaleSocialNetwork.Infrastructure.Data.Context
     public class BrunaDolavaleSocialNetworkContext : DbContext
     {
         public BrunaDolavaleSocialNetworkContext()
-            : base("BrunaDolavaleSocialNetwork")
+            : base("Profiles")
         {
 
         }
